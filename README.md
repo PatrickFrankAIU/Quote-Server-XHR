@@ -7,3 +7,4 @@ Quote server based on the zyLab using XHR code, with alternate endpoint for Pat'
 - Note the comment on line 21, which allows the endpoint to be changed to the node.js server instead of zyBook's php app
 
 ### Hosted with Pages: 
+https://patrickfrankaiu.github.io/Quote-Server-XHR/
