@@ -2,5 +2,8 @@
 
 ## Quote-Server-XHR
 Quote server based on the zyLab using XHR code, with alternate endpoint for Pat's Node.js version. 
+- HTML comes straight from the lab
+- JS is somewhat customized, with comments indicating changes and some explanation of functionality
+- Note the comment on line 21, which allows the endpoint to be changed to the node.js server instead of zyBook's php app
 
 ### Hosted with Pages: 
